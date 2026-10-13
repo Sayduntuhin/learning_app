@@ -1,0 +1,20 @@
+// Barrel export for all Views in MVVM architecture
+export 'assessment/assessment_report_view.dart';
+export 'assessment/voice_assessment_view.dart';
+export 'auth/email_input_view.dart';
+export 'auth/otp_verification_view.dart';
+export 'badge/daily_badge_view.dart';
+export 'home/home_view.dart';
+export 'onboarding/goal_selection_view.dart';
+export 'onboarding/language_selection_view.dart';
+export 'onboarding/level_selection_view.dart';
+export 'onboarding/onboarding_complete_view.dart';
+export 'onboarding/onboarding_view.dart';
+export 'onboarding/practice_time_view.dart';
+export 'onboarding/profile_setup_view.dart';
+export 'practice/mission_exercise_view.dart';
+export 'practice/practice_view.dart';
+export 'profile/profile_view.dart';
+export 'settings/setting_view.dart';
+export 'speak/speak_view.dart';
+export 'splash/splash_view.dart';
